@@ -122,6 +122,7 @@
 
 
 ## 18. Comparativa entre Pocketbase y Supabase
+## Gabriel Manso
 
 - [Código](MANSO/supabase-demo.zip)
 - [Video](https://drive.google.com/file/d/1TJPKS1F-LGrKUiwk_Q1f_aaVMmQOfh7-/view)
