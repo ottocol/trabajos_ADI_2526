@@ -7,7 +7,7 @@
 ## Haytam Abaran, Maria Jover
 
 - [Código](ABARAN/codigo.zip)
-- [Video](ABARAN/ABARAN.mp4)
+- [Video](ABARAN/ABARAN.mp4.zip)
 
 ## 2. Estrategias de rendering avanzado
 ## David Alarcón, Sebastián Carrero
@@ -59,10 +59,10 @@
 
 
 ## 9. REST vs GraphQL
-## Maha Essaoudi, Salma, Nada, ...
+## Maha Essaoudi, Salma Benmoussa, Nada Benaissa, Sabrine Bentaleb, Adnan Moughlia
 
 - [Código](ESSAOUDI/codigo.zip)
-- [Video](https://drive.google.com/drive/folders/1nTq9x69vkqVvpcmy68Z7428WWqwrxfQ3)
+- [Video](https://drive.google.com/file/d/1RVi-9N8tfnKWv0WDNxCN_qVv9FmJGLH1/view?usp=share_link)
 
 
 ## 10. RutinasGymApp: React vs Vue
@@ -81,7 +81,7 @@
 
 
 ## 12. GraphQL
-## Sergio González, Javier Gárcia, Antonio Mainar Sánchez
+## Sergio González, Javier García, Antonio Mainar Sánchez
 
 - [Código](GONZALEZ_URRBAN/grapql-adi.zip)
 - [Video](https://youtu.be/X8DRY9dmsCM)
