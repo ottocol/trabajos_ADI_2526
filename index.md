@@ -115,10 +115,10 @@
 
 
 ## 17. Tutorial de React
-## Morgana Macías y XXXXXXXXX
+## Morgana Macías y Sara Vázquez
 
 - [Código](https://github.com/svp39-ua/MichiDex)
-- [Video]()
+- [Video](https://drive.google.com/file/d/1zfV2v2RI_UC6HNoflo_YuLyiWZdwX2Hu/view?usp=drive_link)
 
 
 ## 18. Comparativa entre Pocketbase y Supabase
