@@ -87,11 +87,11 @@
 - [Video](https://youtu.be/X8DRY9dmsCM)
 
 
-## 13. ¿C++ en mi nagegador? Cómo emscripten rompe las barreras de Javascript
-## Angel González, Mouradi Laouichi, Juan Carlos no se que...
+## 13. ¿C++ en mi navegador? Cómo emscripten rompe las barreras de Javascript
+## Angel González, Mouradi Laouichi, Naoufal Charafat, Juan Carlos Gutiérrez
 
 
-- [Video](https://www.canva.com/design/DAG-yHT6D-k/kzMHjF4crGJQ_almCXKKJg/watch?utm_content=DAG-yHT6D-k&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hd721fea451)
+- [Video](https://youtu.be/JIR8-6Dmn8U)
 
 
 ## 14. GraphQL vs REST
